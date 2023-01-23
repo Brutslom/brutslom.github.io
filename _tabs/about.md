@@ -2,85 +2,86 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+img_path: /assets/img/about/
 ---
 
 # TECH STACK
 ---
 ### Languages
 
-![Java](/assets/img/about/java.svg){: .normal }
-![Python](/assets/img/about/python.svg){: .normal }
-![Bash](/assets/img/about/bash.svg){: .normal }
-![C](/assets/img/about/c.svg){: .normal }
-![C++](/assets/img/about/cpp.svg){: .normal }
-![JavaScript](/assets/img/about/javascript.svg){: .normal }
-![HTML5](/assets/img/about/html.svg){: .normal }
-![CSS3](/assets/img/about/css.svg){: .normal }
-![Markdown](/assets/img/about/markdown.svg){: .normal }
-![Json](/assets/img/about/json.svg){: .normal }
-![Android](/assets/img/about/android.svg){: .normal }
-![C#](/assets/img/about/csharp.svg){: .normal }
-![SQL](/assets/img/about/sql.svg){: .normal }
-![PL/SQL](/assets/img/about/plsql.svg){: .normal }
+![Java](java.svg){: .normal }
+![Python](python.svg){: .normal }
+![Bash](bash.svg){: .normal }
+![C](c.svg){: .normal }
+![C++](cpp.svg){: .normal }
+![JavaScript](javascript.svg){: .normal }
+![HTML5](html.svg){: .normal }
+![CSS3](css.svg){: .normal }
+![Markdown](markdown.svg){: .normal }
+![Json](json.svg){: .normal }
+![Android](android.svg){: .normal }
+![C#](csharp.svg){: .normal }
+![SQL](sql.svg){: .normal }
+![PL/SQL](plsql.svg){: .normal }
 
 ### Frameworks & Platforms & Libraries
 
-![AWS](/assets/img/about/aws.svg){: .normal }
-![Azure](/assets/img/about/azure.svg){: .normal }
-![Docker](/assets/img/about/docker.svg){: .normal }
-![REST](/assets/img/about/rest.svg){: .normal }
-![Django](/assets/img/about/django.svg){: .normal }
-![Spring](/assets/img/about/spring.svg){: .normal }
-![React](/assets/img/about/react.svg){: .normal }
-![NodeJS](/assets/img/about/node.svg){: .normal }
-![Bootstrap](/assets/img/about/bootstrap.svg){: .normal }
-![.Net](/assets/img/about/net.svg){: .normal }
-![Wordpress](/assets/img/about/wordpress.svg){: .normal }
-![Nginx](/assets/img/about/nginx.svg){: .normal }
-![Postgresql](/assets/img/about/postgresql.svg){: .normal }
-![Microsoft Bot Framework](/assets/img/about/mbf.svg){: .normal }
-![Hibernate](/assets/img/about/hibernate.svg){: .normal }
+![AWS](aws.svg){: .normal }
+![Azure](azure.svg){: .normal }
+![Docker](docker.svg){: .normal }
+![REST](rest.svg){: .normal }
+![Django](django.svg){: .normal }
+![Spring](spring.svg){: .normal }
+![React](react.svg){: .normal }
+![NodeJS](node.svg){: .normal }
+![Bootstrap](bootstrap.svg){: .normal }
+![.Net](net.svg){: .normal }
+![Wordpress](wordpress.svg){: .normal }
+![Nginx](nginx.svg){: .normal }
+![Postgresql](postgresql.svg){: .normal }
+![Microsoft Bot Framework](mbf.svg){: .normal }
+![Hibernate](hibernate.svg){: .normal }
 
 ### Databases
 
-![MongoDB](/assets/img/about/mongo.svg){: .normal }
-![SQLite](/assets/img/about/sqlite.svg){: .normal }
-![Access](/assets/img/about/access.svg){: .normal }
-![MySQL](/assets/img/about/mysql.svg){: .normal }
-![SQL Server](/assets/img/about/sql-server.svg){: .normal }
-![Oracle](/assets/img/about/oracle.svg){: .normal }
+![MongoDB](mongo.svg){: .normal }
+![SQLite](sqlite.svg){: .normal }
+![Access](access.svg){: .normal }
+![MySQL](mysql.svg){: .normal }
+![SQL Server](sql-server.svg){: .normal }
+![Oracle](oracle.svg){: .normal }
 
 ### Version Control and CI
 
-![Git](/assets/img/about/git.svg){: .normal }
-![GitHub](/assets/img/about/github.svg){: .normal }
-![Jenkins](/assets/img/about/jenkins.svg){: .normal }
+![Git](git.svg){: .normal }
+![GitHub](github.svg){: .normal }
+![Jenkins](jenkins.svg){: .normal }
 
 ### IDEs
 
-![Visual Studio Code](/assets/img/about/vsc.svg){: .normal }
-![Android Studio](/assets/img/about/android-studio.svg){: .normal }
-![Sublime Text](/assets/img/about/sublime.svg){: .normal }
+![Visual Studio Code](vsc.svg){: .normal }
+![Android Studio](android-studio.svg){: .normal }
+![Sublime Text](sublime.svg){: .normal }
 
 ### Operating Systems
 
-![Linux](/assets/img/about/linux.svg){: .normal }
-![Windows](/assets/img/about/windows.svg){: .normal }
+![Linux](linux.svg){: .normal }
+![Windows](windows.svg){: .normal }
 
 ### Design
 
-![Adobe](/assets/img/about/adobe.svg){: .normal }
+![Adobe](adobe.svg){: .normal }
 
 ### Soft Skills
 
-![Agile](/assets/img/about/agile.svg){: .normal }
-![Client-oriented](/assets/img/about/client.svg){: .normal }
-![Communication](/assets/img/about/comm.svg){: .normal }
-![Creativity](/assets/img/about/creat.svg){: .normal }
-![Detail-oriented](/assets/img/about/detail.svg){: .normal }
-![OOP](/assets/img/about/oop.svg){: .normal }
-![Open-mindedness](/assets/img/about/open.svg){: .normal }
-![Problem-solving](/assets/img/about/problem.svg){: .normal }
+![Agile](agile.svg){: .normal }
+![Client-oriented](client.svg){: .normal }
+![Communication](comm.svg){: .normal }
+![Creativity](creat.svg){: .normal }
+![Detail-oriented](detail.svg){: .normal }
+![OOP](oop.svg){: .normal }
+![Open-mindedness](open.svg){: .normal }
+![Problem-solving](problem.svg){: .normal }
 
 ---
 
