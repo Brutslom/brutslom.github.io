@@ -2,6 +2,9 @@
 layout: post
 title: PRESENTATION (EN)
 date: 2022-08-10 00:00 +0000
+categories:
+- english
+
 ---
 Hello everybody,
 
