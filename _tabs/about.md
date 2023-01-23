@@ -46,7 +46,7 @@ order: 4
 ![MongoDB](/assets/img/about/mongo.svg){: .normal }
 ![SQLite](/assets/img/about/sqlite.svg){: .normal }
 ![Access](/assets/img/about/access.svg){: .normal }
-![MySQL](/assets/img/about/mysaql.svg){: .normal }
+![MySQL](/assets/img/about/mysql.svg){: .normal }
 ![SQL Server](/assets/img/about/sql-server.svg){: .normal }
 ![Oracle](/assets/img/about/oracle.svg){: .normal }
 
