@@ -1,6 +1,0 @@
-#!/bin/bash
-cat ../../../../prueba | while read -r line
-do
-  	wget $line
-done
-
