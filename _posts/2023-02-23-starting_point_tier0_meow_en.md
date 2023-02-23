@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MACHINES "STARTING POINT" TIER 0 (HTB). MEOW (EN)
+title: MACHINES 'STARTING POINT' TIER 0 (HTB). MEOW (EN)
 categories:
 - english
 - laboratories
