@@ -15,7 +15,7 @@ image:
   alt: FAWN
 date: 2023-02-28 18:40 +0100
 ---
-Hola a todos,
+Hello everybody,
 
 This time we will be solving the tasks of the second machine of the "Starting Point" laboratories called [**Fawn**](https://app.hackthebox.com/starting-point)
 

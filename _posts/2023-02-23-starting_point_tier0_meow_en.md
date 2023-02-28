@@ -15,9 +15,9 @@ image:
   alt: MEOW
 date: 2023-02-23 19:33 +0100
 ---
-Hola a todos,
+Hello everybody,
 
-En esta serie de post vamos a ir resolviendo las máquinas relacionadas con los laboratorios de "Starting Point" de Hack The Box empezando por la primera máquina llamada [**Meow**](https://app.hackthebox.com/starting-point)
+In this series of posts we will be solving the machines related to the Hack The Box "Starting Point" labs starting with the first machine named [**Meow**](https://app.hackthebox.com/starting-point)
 
 # Introduction
 
