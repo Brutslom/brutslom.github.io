@@ -32,28 +32,30 @@ Once the machine has been activated, it provides us with the ip _10.129.238.113_
 > All questions are marked with an asterisk (*) and a letter, which makes it easier to solve the task.
 {: .prompt-tip }
 
-# Task 1
+# Tasks
+
+## Task 1
 
 > What does the acronym VM stand for?
 
 In this case the answer is simple, **Virtual Machine**. If not, a quick query on [**google**](https://letmegooglethat.com/?q=What+does+the+acronym+VM+stand+for%3F), will sort it out.
 
 
-# Task 2
+## Task 2
 
 > What tool do we use to interact with the operating system to issue commands via the command line, such as starting our VPN connection? This is also known as a console or shell.
 
 The answer is also simple, **terminal**.
 
 
-# Task 3
+## Task 3
 
 > Which service do we use to form our VPN connection in HTB Labs?
 
 If we check the help provided by [**hackthebox**](https://help.hackthebox.com/en/articles/5185687-introduction-to-lab-access), we can see that the service they use is: **openVPN**
 
 
-# Task 4
+## Task 4
 
 > What is the short name of a 'tunnel interface' in the output of your VPN startup sequence?
 
@@ -86,21 +88,21 @@ _ifconfig_
 So the answer in this case is, **tun**.
 
 
-# Task 5
+## Task 5
 
 > Which tool do we use to test our connection to the target with an ICMP echo request?
 
 The default and best known tool worldwide to perform ICMP trace requests is: **ping**
 
 
-# Task 6
+## Task 6
 
 > What is the name of the most common tool to find open ports on a target?
 
 In this case the best known is our friend: **nmap**, which we will use on all or almost all targets in order to find open ports.
 
 
-# Task 7
+## Task 7
 
 > What service do we identify on port 23/tcp during our scans?
 
@@ -122,7 +124,7 @@ We can see that the service that is active on that port is:**telnet**
 _nmap_
 
 
-# Task 8
+## Task 8
 
 > Which user name can log in to the target via telnet with a blank password?
 

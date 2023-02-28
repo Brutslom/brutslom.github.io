@@ -29,33 +29,35 @@ Una vez activada la máquina nos facilita la ip _10.129.155.17_ por lo que las s
 > En todas las preguntas aparecen unos asteriscos (*) y alguna letra, que facilita la resolución de la tarea.
 {: .prompt-tip }
 
+# Tareas
+
 ## Tarea 1
 
 > ¿Qué significa el acrónimo de 3 letras FTP?
 
 Las siglas FTP significa **File Transfer Protocol**, es un protocolo que, como su nombre indica, permite la transferencia de archivos entre dispositivos.
 
-# Tarea 2
+## Tarea 2
 
 > ¿En qué puerto suele escuchar el servicio FTP?
 
 Generalmente, salvo que se haya modificado la configuración del servicio el protocolo FTP escucha por el puerto **21**.
 
 
-# Tarea 3
+## Tarea 3
 
 > ¿Qué acrónimo se utiliza para la versión segura de FTP?
 
 Por defecto, el protocolo FTP no ofrece "seguridad" y viajan los datos en texto plano, pero su versión segura, Secure File Transfer Protocol o **SFTP**, realiza una implementación donde codifica los datos que se intercambian.
 
 
-# Tarea 4
+## Tarea 4
 
 > ¿Cuál es el comando que podemos utilizar para enviar una solicitud de eco ICMP para probar nuestra conexión con el objetivo?
 
 Esto lo vimos en el anterior post, recordamos que la herramienta mas conocida para lanzar tramas ICMP es **ping**.
 
-# Tarea 5
+## Tarea 5
 
 > Según tus escaneos, ¿qué versión de FTP se está ejecutando en el objetivo?
 
@@ -74,7 +76,7 @@ Como se puede comprobar el servicio que se esta ejecutando es **vsftpd 3.0.3**
 _nmap ftp_
 
 
-# Tarea 6
+## Tarea 6
 
 > Según tus escaneos, ¿qué tipo de sistema operativo se está ejecutando en el objetivo?
 
@@ -114,7 +116,7 @@ _nmap so_
 En este caso vemos que lo casi 100% se trata de un sistema operativo Linux, sin embargo, si intentamos introducir el resultado vemos que nos da un error, sin embargo, nos dan una pista, la respuesta solo tiene 4 letras y como bien sabemos todos o casi todos los sistemas operativos Linux están basados en **unix**, que será la respuesta correcta.
 
 
-# Tarea 7
+## Tarea 7
 
 > ¿Cuál es el comando que debemos ejecutar para mostrar el menú de ayuda del cliente "ftp"?
 
@@ -142,14 +144,14 @@ En este caso el comando que deberemos utilizar es  **ftp -h**
 _ftp_
 
 
-# Tarea 8
+## Tarea 8
 
 > ¿Cuál es el nombre de usuario que se utiliza en FTP cuando se quiere acceder sin tener una cuenta?
 
 Si buscamos información sobre el servicio [**ftp**](https://www.uv.es/bombinp/ftp.html), podemos comprobar que existe un usuario que se crea de manera automática en el servicio cuando se instala en una máquina, mediante la configuración es posible anular la entrada de este usuario al servicio FTP, este usuario es **anonymous**
 
 
-# Tarea 9
+## Tarea 9
 
 > ¿Cuál es el código de respuesta que obtenemos para el mensaje FTP 'Login successful'?
 
@@ -167,14 +169,14 @@ Como se puede comprobar antes de la cadena Login successful, vemos el código **
 _ftp_
 
 
-# Tarea 10
+## Tarea 10
 
 > Hay un par de comandos que podemos utilizar para listar los archivos y directorios disponibles en el servidor FTP. Uno es dir. Cuál es el otro que es una forma común de listar archivos en un sistema Linux.
 
 Es por todos bien conocido que el comando para listar archivos en Linux es **ls**. Podemos encontrar mas información en el este [**link**](https://www.freecodecamp.org/espanol/news/el-comando-linux-ls-como-listar-archivos-en-un-directorio-indicadores-de-opcion/)
 
 
-# Tarea 11
+## Tarea 11
 
 > ¿Cuál es el comando utilizado para descargar el archivo que encontramos en el servidor FTP?
 

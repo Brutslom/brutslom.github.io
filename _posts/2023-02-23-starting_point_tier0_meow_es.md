@@ -35,28 +35,30 @@ Una vez activada la máquina nos facilita la ip _10.129.238.113_ por lo que las 
 > En todas las preguntas aparecen unos asteriscos (*) y alguna letra, que facilita la resolución de la tarea.
 {: .prompt-tip }
 
-# Tarea 1
+# Tareas 
+
+## Tarea 1
 
 > ¿Qué significa el acrónimo VM?
 
 En este caso la respuesta es sencilla, **Virtual Machine**. Sino, una consulta rápida en [**google**](https://letmegooglethat.com/?q=%C2%BFQu%C3%A9+significa+el+acr%C3%B3nimo+VM%3F), lo solucionará.
 
 
-# Tarea 2
+## Tarea 2
 
 > ¿Qué herramienta utilizamos para interactuar con el sistema operativo con el fin de emitir comandos a través de la línea de comandos, como el de iniciar nuestra conexión VPN? También se conoce como consola o shell.
 
 La respuesta también es sencilla, **terminal**
 
 
-# Tarea 3
+## Tarea 3
 
 > ¿Qué servicio usamos para formar nuestra conexión VPN en los laboratorios HTB?
 
 Si revisamos la ayuda que nos proporciona [**hackthebox**](https://help.hackthebox.com/en/articles/5185687-introduction-to-lab-access), podemos comprobar que el servicio que utilizan es: **openVPN**
 
 
-# Tarea 4
+## Tarea 4
 
 > ¿Cuál es el nombre abreviado de una 'interfaz de túnel' en el resultado de la secuencia de arranque de su VPN?
 
@@ -89,21 +91,21 @@ _ifconfig_
 
 Por lo que la respuesta en este caso es, **tun**
 
-# Tarea 5
+## Tarea 5
 
 > ¿Qué herramienta usamos para probar nuestra conexión con el objetivo con una solicitud de eco ICMP?
 
 La herramienta por defecto y mas conocida a nivel mundial para realizar solicitudes de trazas ICMP es: **ping**
 
 
-# Tarea 6
+## Tarea 6
 
 > ¿Cuál es el nombre de la herramienta más común para encontrar puertos abiertos en un objetivo?
 
 En este caso la mas conocida es nuestra amiga: **nmap**, que utilizaremos en todos o casi todos los objetivos con el fin de hallar los puertos abiertos
 
 
-# Tarea 7
+## Tarea 7
 
 > ¿Qué servicio identificamos en el puerto 23/tcp durante nuestros escaneos?
 
@@ -125,7 +127,7 @@ Podemos ver que el servicio que se encuentra activo en ese puerto es:**telnet**
 _nmap_
 
 
-# Tarea 8
+## Tarea 8
 
 > ¿Qué nombre de usuario puede iniciar sesión en el objetivo a través de telnet con una contraseña en blanco?
 

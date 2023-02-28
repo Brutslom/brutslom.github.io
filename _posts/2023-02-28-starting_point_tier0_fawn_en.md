@@ -26,34 +26,36 @@ Once the machine has been activated, it provides us with the ip _10.129.155.17_,
 > All questions are marked with an asterisk (*) and a letter, which makes it easier to solve the task.
 {: .prompt-tip }
 
-# Task 1
+# Task
+
+## Task 1
 
 > What does the 3-letter acronym FTP stand for?
 
 FTP stands for **File Transfer Protocol**, a protocol that, as its name suggests, allows the transfer of files between devices.
 
 
-# Task 2
+## Task 2
 
 > Which port does the FTP service listen on usually? 
 
 Generally, unless the service configuration has been modified, the FTP protocol listens on port **21**.
 
 
-# Task 3
+## Task 3
 
 > What acronym is used for the secure version of FTP? 
 
 By default, the FTP protocol does not offer "security" and data travels in plain text, but its secure version, Secure File Transfer Protocol or **SFTP**, makes an implementation where it encrypts the data being exchanged.
 
 
-# Task 4
+## Task 4
 
 > What is the command we can use to send an ICMP echo request to test our connection to the target? 
 
 TWe saw this in the previous post, remember that the best known tool to launch ICMP frames is **ping**.
 
-# Task 5
+## Task 5
 
 > From your scans, what version is FTP running on the target? 
 
@@ -71,7 +73,7 @@ As you can see the service running is **vsftpd 3.0.3**.
 ![nmap](nmap-1.png){: width="972" height="589" }
 _nmap ftp_
 
-# Task 6
+## Task 6
 
 > From your scans, what OS type is running on the target?
 
@@ -107,7 +109,7 @@ _nmap so_
 
 In this case we see that the almost 100% is a Linux operating system, however, if we try to enter the result we see that it gives us an error, however, they give us a clue, the answer only has 4 letters and as we well know all or almost all Linux operating systems are based on **unix**, which will be the correct answer.
 
-# Task 7
+## Task 7
 
 > What is the command we need to run in order to display the 'ftp' client help menu?
 
@@ -134,14 +136,14 @@ In this case the command to use is **ftp -h**.
 _ftp_
 
 
-# Task 8
+## Task 8
 
 > What is username that is used over FTP when you want to log in without having an account?
 
 If we look for information about the [**ftp**](https://www.uv.es/bombinp/ftp.html) service, we can see that there is a user that is automatically created in the service when it is installed on a machine, by means of the configuration it is possible to cancel the entry of this user to the FTP service, this user is **anonymous**.
 
 
-# Task 9
+## Task 9
 
 > What is the response code we get for the FTP message 'Login successful'? 
 
@@ -160,13 +162,13 @@ As you can see before the string Login successful, we see the code **230**.
 _ftp_
 
 
-# Task 10
+## Task 10
 
 > There are a couple of commands we can use to list the files and directories available on the FTP server. One is dir. What is the other that is a common way to list files on a Linux system. 
 
 It is well known that the command for listing files in Linux is **ls**. More information can be found in this [**link**](https://linuxize.com/post/how-to-list-files-in-linux-using-the-ls-command/)
 
-# Task 11
+## Task 11
 
 > What is the command used to download the file we found on the FTP server? 
 
