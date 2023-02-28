@@ -29,7 +29,7 @@ Una vez activada la máquina nos facilita la ip _10.129.155.17_ por lo que las s
 > En todas las preguntas aparecen unos asteriscos (*) y alguna letra, que facilita la resolución de la tarea.
 {: .prompt-tip }
 
-# Tarea 1
+## Tarea 1
 
 > ¿Qué significa el acrónimo de 3 letras FTP?
 
