@@ -13,7 +13,7 @@ img_path: "/assets/img/posts/20230307/"
 image:
   path: portada.png
   alt: DANCING
-
+date: 2023-03-07 19:43 +0100
 ---
 Hola a todos,
 
